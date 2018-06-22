@@ -8,7 +8,7 @@ canvas.height = innerHeight;
 
 const mouse = {
     x: innerWidth / 2,
-    y: innerHeight / 2;
+    y: innerHeight / 2
 };
 
 const colors = ['#2185C5', '#7ECEFD', '#FFF6E5', '#FF7F66'];
